@@ -7,7 +7,12 @@
 \title{Reference Generator}
 \begin{document}
 
+<<<<<<< HEAD
+Refererences we need to generate (In order of authorship):
+\cite{CLOSER:Lamb}
+=======
 Current Curriculum Vitae for Christopher C. Lamb (In order of authorship): \\~\\
+>>>>>>> 3a63870031b86127a33228c20dfb407735e3979f
 \cite{IJCLOSER:Lamb}
 \cite{book:lamb}
 \cite{6274040}

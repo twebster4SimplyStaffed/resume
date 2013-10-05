@@ -1,0 +1,110 @@
+<<<<<<< HEAD
+@INPROCEEDINGS{CLOSER:Lamb,
+ author={Nandina, Viswanath and Luna, Jose Marcio and Nava, Edward J. and Lamb, Christopher C. and Heileman, Gregory L. and Abdallah, Chaouki T.},
+ booktitle={Cloud Computing and Services Science, 2013 4th International Conference on},
+ title={Policy-based Security Provisioning and Performance Control in the Cloud},
+ year={2013},
+ month={May},
+ volume={},
+ number={},
+ pages={},
+ keywords={},
+ doi={},
+ ISSN={}
+}
+=======
+
+
+>>>>>>> 3a63870031b86127a33228c20dfb407735e3979f
+
+@article{IJCLOSER:Lamb,
+   author = {Christopher Lamb and Gregory Heileman},
+   title = {Content-centric Information Protection in Cloud Computing},
+   journal = {International Journal of Cloud Computing and Services Science},
+   volume = {2},
+   number = {1},
+   year = {2012},
+   pages = {246-257},
+   ISSN={2089-3337},
+}
+
+@BOOK{book:lamb,
+  author={Lamb, Christopher C. and Jamkhedkar, Pramod A. and Heileman, Gregory L.},
+  title={Digital Rights Management: Technology, Standards and Applications},
+  publisher={Auerbach Publications},
+  year={2013},
+}
+
+@INPROCEEDINGS{ctrl:lamb-SOSE,
+ author={Lamb, Christopher C. and Jamkhedkar, Pramod A. and Heileman, Gregory L. and Abdallah, Chaouki T.},
+ booktitle={System of Systems Engineering (SoSE), 2011 6th International Conference on}, title={Managed control of composite cloud systems},
+ year={2011},
+ month={june},
+ volume={},
+ number={},
+ pages={167 -172},
+ keywords={},
+ doi={10.1109/SYSOSE.2011.5966592},
+ ISSN={},
+}
+
+@INPROCEEDINGS{Jamkhedkar:2010:IUM:1866870.1866885,
+ author = {Jamkhedkar, Pramod A. and Heileman, Gregory L. and Lamb, Chris C.},
+ title = {An interoperable usage management framework},
+ booktitle = {Proceedings of the tenth annual ACM workshop on Digital rights management},
+ series = {DRM '10},
+ year = {2010},
+ isbn = {978-1-4503-0091-9},
+ location = {Chicago, Illinois, USA},
+ pages = {73--88},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/1866870.1866885},
+ doi = {http://doi.acm.org/10.1145/1866870.1866885},
+ acmid = {1866885},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {access control, drm, formal methods, interoperability},
+}
+
+@INPROCEEDINGS{6008751, 
+author={Jamkhedkar, P.A. and Lamb, C.C. and Heileman, G.L.}, 
+booktitle={Cloud Computing (CLOUD), 2011 IEEE International Conference on}, title={Usage Management in Cloud Computing}, 
+year={2011}, 
+month={july}, 
+volume={}, 
+number={}, 
+pages={525 -532}, 
+keywords={cloud computing;data handling;distributed cloud environment;service level agreement framework;usage management framework;authorisation;cloud computing;data handling;}, 
+doi={10.1109/CLOUD.2011.112}, 
+ISSN={2159-6182},}
+
+@INPROCEEDINGS{6274040, 
+author={Lamb, C.C. and Heileman, G.L.}, 
+booktitle={Services (SERVICES), 2012 IEEE Eighth World Congress on}, title={Overlay Architectures Enabling Cloud Computing for Multi-level Security Environments}, 
+year={2012}, 
+month={june}, 
+volume={}, 
+number={}, 
+pages={116 -124}, 
+keywords={cloud computing;cross-domain solutions;distributed policy-centric overlay methods;filter-centric perimeter;migration path;multilevel security environments;overlay architectures;sensitive content;usage management;utility computing models;cloud computing;security of data;}, 
+doi={10.1109/SERVICES.2012.20}, 
+ISSN={},}
+
+@inproceedings{Lamb:2011:DSL:2046631.2046641,
+ author = {Lamb, Christopher Charles and Jamkhedkar, Pramod A. and Bohnsack, Mathew P. and Nandina, Viswanath and Heileman, Gregory L.},
+ title = {A domain specific language for usage management},
+ booktitle = {Proceedings of the 11th annual ACM workshop on Digital rights management},
+ series = {DRM '11},
+ year = {2011},
+ isbn = {978-1-4503-1005-5},
+ location = {Chicago, Illinois, USA},
+ pages = {51--62},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/2046631.2046641},
+ doi = {10.1145/2046631.2046641},
+ acmid = {2046641},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {DRM, access control, interoperability, usage management},
+} 
+
